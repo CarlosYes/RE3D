@@ -123,10 +123,10 @@ header .content-fit nav ul {
 }
 #container3D {
   position: fixed;
-bottom: 5px;
-	left: 0%;
-	bottom: -100px;
-	z-index: 100;
+  bottom: 5px;
+  left: 0%;
+  bottom: -30px;
+  z-index: 3;
 }
 @media screen and (max-width: 1023px) {
   #banner .title {
